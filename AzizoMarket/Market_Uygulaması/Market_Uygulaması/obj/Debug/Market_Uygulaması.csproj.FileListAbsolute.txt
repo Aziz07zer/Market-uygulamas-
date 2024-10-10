@@ -1,0 +1,16 @@
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\bin\Debug\Market_Uygulaması.exe.config
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\bin\Debug\Market_Uygulaması.exe
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\bin\Debug\Market_Uygulaması.pdb
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.csproj.AssemblyReference.cache
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Form1.resources
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Properties.Resources.resources
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.csproj.GenerateResource.cache
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.csproj.CoreCompileInputs.cache
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.exe
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.pdb
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Form2.resources
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Form3.resources
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Form4.resources
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Form5.resources
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Form6.resources
+E:\stajda_yaptığım_uygulamalar\AzizoMarket\Market_Uygulaması\Market_Uygulaması\obj\Debug\Market_Uygulaması.Form7.resources
